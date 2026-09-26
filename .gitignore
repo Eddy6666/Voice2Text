@@ -1,0 +1,19 @@
+# 虚拟环境
+venv/
+.venv/
+
+# 模型文件（太大，不进 git；用户自行下载）
+models/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时日志
+error.log
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
